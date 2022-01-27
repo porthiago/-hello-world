@@ -1,2 +1,2 @@
-# -hello-world
+# hello-world
 Primeiro exercício na Cubos Academy.
